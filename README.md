@@ -1,2 +1,2 @@
-# FrontEndProjects
-react, redux sass and html
+#FrontEndProjects
+React, Redux, Sass, JS and HTML.
